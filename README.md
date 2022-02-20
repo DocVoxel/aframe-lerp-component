@@ -1,3 +1,5 @@
+# Archived - not maintained!
+
 ## aframe-lerp-component
 
 A linear interpolation component for [A-Frame](https://aframe.io).
